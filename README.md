@@ -1,2 +1,2 @@
 # cp-algorithms
-Algorithms and data structures commonly usedin competitive programming
+Algorithms and data structures commonly used in competitive programming
